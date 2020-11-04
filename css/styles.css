@@ -1,0 +1,37 @@
+
+
+      body {
+        background-color: powderblue;
+
+      }
+      h1, h2{
+        color:green;
+
+      }
+
+    div{
+      background-color: yellow;
+      
+    }
+
+
+    h1:hover{
+      color:red;
+    }
+    h2:hover{
+      color:red;
+    }
+
+
+      li{
+        font-size:18px;
+      }
+
+      hr{
+
+        border-style:none;
+        border-top-style: dotted;
+        border-width: 10px;
+        border-color:grey;
+        width: 50%;
+}
